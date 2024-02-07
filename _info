@@ -1,0 +1,53 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\deyaa\OneDrive\Desktop
+vmydesign
+Z1 IOed@z[A>Ii?X>=bnR1_1g2
+Z2 VNcmJ6R7NE7[D30G<Ufh>^0
+Z3 dC:\Users\deyaa\OneDrive\Desktop
+Z4 w1707324361
+Z5 8C:\Users\deyaa\OneDrive\Desktop\FSM.v
+Z6 FC:\Users\deyaa\OneDrive\Desktop\FSM.v
+L0 1
+Z7 OV;L;6.6c;45
+r1
+31
+Z8 !s102 -nocovercells
+Z9 o-work work -nocovercells -O0
+Z10 !s100 gefmQDZC^Y3Z;j83^B[3n2
+!s85 0
+!s101 -O0
+vram
+Z11 IBld]Tz3o`:kAE:2U3Coh40
+Z12 V;>IT9Nz90=mFgK4U:WYe52
+R3
+Z13 w1707324347
+Z14 8C:\Users\deyaa\OneDrive\Desktop\Ramm.v
+Z15 FC:\Users\deyaa\OneDrive\Desktop\Ramm.v
+L0 1
+R7
+r1
+31
+R9
+Z16 !s100 :4EWb@_DC[>I6lkkKl>c82
+R8
+!s85 0
+!s101 -O0
+vtb
+!s100 6l1[L5_nI8BE[WFOTFW5E2
+IdKEVCgEQWU7UI<ZF@W:gT2
+VV@Xn<HnSRM[I5c1?BH]3a3
+R3
+w1707324322
+8C:\Users\deyaa\OneDrive\Desktop\tb.v
+FC:\Users\deyaa\OneDrive\Desktop\tb.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s101 -O0
+R8
+R9
